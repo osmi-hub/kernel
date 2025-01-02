@@ -1,1 +1,1 @@
-# kernel
+支持CAN模块
