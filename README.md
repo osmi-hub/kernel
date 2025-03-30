@@ -1,1 +1,1 @@
-### Amlogic Rockchip 内核
+Amlogic Rockchip 内核
